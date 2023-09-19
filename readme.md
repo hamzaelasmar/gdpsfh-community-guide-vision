@@ -32,6 +32,6 @@
 | !daily| Puts Level As Daily Level
 | !weekly| Puts Level As Weekly Level
 | !delete| Delete Level From Servers (Forever)|
-<h1 style="text-align: center">Thank You For Reading The Command Guide Lines/h1>
+<h1 style="text-align: center">Thank You For Reading The Command Guide Lines</h1>
 <h4 style="text-align: center">Made By RlyVision</h4>
 </div>
