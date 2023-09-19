@@ -2,6 +2,8 @@
 
 <h1 style="text-align: center">Level Owner Commands</h1>
 
+<div align="center">
+
 | Command | Use |
 |----------|:-------------------------------------------------------------------------------------------------------------:|
 | !pass (new pass) | Set To 0 for no-copy level. 4-6 digits |
@@ -24,11 +26,11 @@
 | !feature | Lists Level As Featured and puts it in featured tab                                                           |
 | !epic    | Same As !feature but instead makes it epic                                                                    |
 | !unepic  | Removes Epic Rating     
-| !setacc  | Changes The Account That The Level Is On                                                                                          |
+| !setacc  | Changes The Account That The Level Is On                |
 | !verifycoins (0/1)| Sets If Coins Are Collectable 0 = Uncollectable 1 = Collectable
 | !daily| Puts Level As Daily Level
 | !weekly| Puts Level As Weekly Level
 | !delete| Delete Level From Servers (Forever)|
-
-<h1 style="text-align: center">Thank You For Reading The Command Guidelines</h1>
+</div>
+</<h1 style="text-align: center">Than<h1 style="text-align: center">Thank You For Reading The Command Guidelines</h1>k You For Reading The Command Guidelines</h1>
 <h4 style="text-align: center">Made By RlyVision</h4>
