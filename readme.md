@@ -1,8 +1,9 @@
+<div align="center">
 <h1 style="text-align: center">Welcome To GDPSFH Commands</h1>
 
 <h1 style="text-align: center">Level Owner Commands</h1>
 
-<div align="center">
+
 
 | Command | Use |
 |----------|:-------------------------------------------------------------------------------------------------------------:|
@@ -31,6 +32,6 @@
 | !daily| Puts Level As Daily Level
 | !weekly| Puts Level As Weekly Level
 | !delete| Delete Level From Servers (Forever)|
-</div>
-</<h1 style="text-align: center">Than<h1 style="text-align: center">Thank You For Reading The Command Guidelines</h1>k You For Reading The Command Guidelines</h1>
+<h1 style="text-align: center">Thank You For Reading The Command Guide Lines/h1>
 <h4 style="text-align: center">Made By RlyVision</h4>
+</div>
